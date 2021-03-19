@@ -5,4 +5,4 @@ int minimumAbsoluteDifference(vector<int> arr) {
         if(arr[i]-arr[i-1]<ans)ans=arr[i]-arr[i-1];
     }
     return ans;
-}
+} 

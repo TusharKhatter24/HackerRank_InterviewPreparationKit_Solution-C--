@@ -14,4 +14,4 @@ int luckBalance(int k, vector<vector<int>> contests) {
         count--;
     }
     return ans;
-}
+} 

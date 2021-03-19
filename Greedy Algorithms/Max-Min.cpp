@@ -9,4 +9,4 @@ int maxMin(int k, vector<int> arr) {
         }
     }
     return min;    
-}
+} 
