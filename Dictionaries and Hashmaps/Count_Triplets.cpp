@@ -1,7 +1,7 @@
 long long countTriplets(vector<long> arr, long r) {
     unordered_map<long,long>lm;
     unordered_map<long,long>rm;
-    long long count=0;
+    long long count=0; 
     lm[arr[0]]++;
     for(int i=2;i<arr.size();i++){
         rm[arr[i]]++;

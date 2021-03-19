@@ -9,4 +9,4 @@ string twoStrings(string s1, string s2) {
         }
     }
     return "NO";
-}
+} 

@@ -16,4 +16,4 @@ void checkMagazine(vector<string> magazine, vector<string> note) {
     }
     cout<<"Yes";
     return;
-}
+} 

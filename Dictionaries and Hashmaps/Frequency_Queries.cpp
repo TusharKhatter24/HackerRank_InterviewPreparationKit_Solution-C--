@@ -1,7 +1,7 @@
 vector<int> freqQuery(vector<vector<int>> queries) {
     unordered_map<int,int>m;
     unordered_map<int,int>n;
-    vector<int> v;
+    vector<int> v; 
     for(int i=0;i<queries.size();i++){
         if(queries[i][0]==1){
             if(m.count(queries[i][1])>0){

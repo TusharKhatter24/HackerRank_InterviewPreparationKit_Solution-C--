@@ -12,4 +12,4 @@ int sherlockAndAnagrams(string s) {
         }
     }
     return count;
-}
+} 
