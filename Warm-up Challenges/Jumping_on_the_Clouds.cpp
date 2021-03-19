@@ -8,4 +8,4 @@ int jumpingOnClouds(vector<int> c) {
      if (i<n-2 && c[i+2]==0) i++;
     }
      return count;
-}
+} 
