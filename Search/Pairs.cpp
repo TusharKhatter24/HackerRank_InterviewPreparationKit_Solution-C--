@@ -13,4 +13,4 @@ int pairs(int k, vector<int> arr) {
         }
     }
     return count/2;
-}
+} 

@@ -17,4 +17,4 @@ long triplets(vector<int> a, vector<int> b, vector<int> c) {
      j++;
     }
     return res;
-}
+} 
