@@ -5,7 +5,7 @@ string isBalanced(string exp) {
     
     bool istrue=true;
     int i;
-    
+     
 stack<char> s1;
     
     for(i=0;exp[i]!='\0';i++)

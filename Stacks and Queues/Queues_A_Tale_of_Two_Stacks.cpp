@@ -1,5 +1,5 @@
 class MyQueue {
-  
+   
     public:
         stack<int> stack_newest_on_top, stack_oldest_on_top;
 

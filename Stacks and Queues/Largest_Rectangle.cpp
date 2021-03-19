@@ -1,6 +1,6 @@
 long largestRectangle(vector<int> h) {
     int i,j,count,min;
-    long int Area,Max=0;
+    long int Area,Max=0; 
     int n=h.size();
     h[n]=0;            //to avoid crash while executing h[n]
     for(i=0;i<n;i++){
