@@ -9,6 +9,5 @@ DoublyLinkedListNode* reverse(DoublyLinkedListNode* head) {
     tail -> next = head;
     head -> prev = tail;
     head -> next = NULL;
-    return smallAns;
-    
-}
+    return smallAns;  
+} 

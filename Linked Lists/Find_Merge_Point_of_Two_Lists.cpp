@@ -9,4 +9,4 @@ int findMergeNode(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
         temp2=temp2->next;
     }
     return temp2->data;
-}
+} 
