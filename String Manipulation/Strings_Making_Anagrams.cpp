@@ -1,7 +1,7 @@
 int makeAnagram(string a, string b) {
     unordered_map<char, int>m;
     int count=0;
-    for(int i=0;i<a.size();i++){
+    for(int i=0;i<a.size();i++){ 
         m[a[i]]++;
     }
     for(int i=0;i<b.size();i++){

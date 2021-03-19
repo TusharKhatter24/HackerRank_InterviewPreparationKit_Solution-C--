@@ -1,5 +1,5 @@
 int commonChild(string s1, string s2) {
-    int m = s1.size();
+    int m = s1.size(); 
     int n = s2.size();
     int **T=new int*[m+1];
     for(int i = 0; i <= m; i++) {

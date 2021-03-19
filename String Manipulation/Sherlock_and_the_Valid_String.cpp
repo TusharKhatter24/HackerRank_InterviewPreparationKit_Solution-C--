@@ -1,5 +1,5 @@
 string isValid(string s) 
-{   
+{    
     unordered_map<char, int> m;
     unordered_map<int, int> n;  
   for(char c : s)

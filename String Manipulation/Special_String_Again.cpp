@@ -13,7 +13,7 @@ long substrCount(int n,string s){
                     diffCharIdx = j;
                 else
                     break;
-            }
+            } 
         }
     }
     return count;

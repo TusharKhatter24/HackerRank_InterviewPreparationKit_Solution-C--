@@ -4,4 +4,4 @@ int alternatingCharacters(string s) {
         if(s[i]==s[i+1]){count++;}
     }
     return count;
-}
+} 
