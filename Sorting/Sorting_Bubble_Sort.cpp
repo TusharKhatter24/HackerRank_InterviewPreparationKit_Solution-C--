@@ -9,4 +9,4 @@ void countSwaps(vector<int> a) {
             count++;
         }
     }   
-}
+} 
